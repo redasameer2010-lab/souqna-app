@@ -1,4 +1,4 @@
-name: Build Souqna APK
+name: Build Souqna APK 
 
 on:
   workflow_dispatch:
